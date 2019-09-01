@@ -1,0 +1,10 @@
+HUB08-Pin | Arduino Pin | Note
+  LA / A  |     4       | Line select A
+  LB / B  |     5       | Line select B 
+  LC / C  |     6       | Line select C
+  LD / D  |     7       | Line select D
+  CLK     |   13 (SCK)  | Serial clock
+  R1 / R  |   11 (MOSI) | Serial Data (Red pixels)
+  OE / EN |     3       | Output Enable (PWM brightness control)
+ LAT / STB|     2       | Latch
+  

@@ -1,0 +1,5 @@
+не проверенная на железе версия.
+укоротил по просьбе.
+
+not tested on hardware version.
+shortened on request.
